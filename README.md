@@ -1,7 +1,7 @@
 # Florza - E-commerce Website for Indoor Plants
 
 ## Description
-Florza is an e-commerce web application developed using ASP.NET and SQL Server. It allows users to buy and sell indoor plants through an interactive and user-friendly interface.
+Florza is an e-commerce web application developed using ASP.NET and SQL Server. It allows users to buy indoor plants through an interactive and user-friendly interface.
 
 ## Features
 - User registration and login
